@@ -12,7 +12,7 @@ body {
     flex-direction: row;
     width: 100%;
     text-align: center;
-    margin: 9% 0;
+    height: calc(100vh - 100px);
 }
 
 .clock {
